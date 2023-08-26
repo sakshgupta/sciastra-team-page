@@ -1,18 +1,16 @@
-SciAstra Team Page Project
-==========================
+# SciAstra Team Page Project
 
 Welcome to the SciAstra Team Page project! This project aims to create a "teams page" for the SciAstra company website, similar to the provided template.
 
 Site: https://www.sciastra.com/
 
-Getting Started locally
----------------
+## Getting Started locally
 
 ### Prerequisites
 
 Before you begin, make sure you have the following software installed:
 
-*   Node.js: [Download and install Node.js](https://nodejs.org/)
+-   Node.js: [Download and install Node.js](https://nodejs.org/)
 
 ### Installation
 
@@ -28,8 +26,7 @@ Before you begin, make sure you have the following software installed:
 
     `npm install`
 
-Usage
------
+## Usage
 
 To run the project locally, follow these steps:
 
@@ -41,15 +38,13 @@ To run the project locally, follow these steps:
 
 The team page should now be visible in your browser.
 
-Hosting
--------
+## Hosting
 
 You can also access the hosted version of the SciAstra Team Page project. The project is hosted on [Vercel](https://www.vercel.com/):
 
-*   Hosted Link: [SciAstra Team Page](https://your-netlify-site-url.com)
+-   Hosted Link: [SciAstra Team Page](https://sciastra-sakshgupta.vercel.app/)
 
-
-* * *
+---
 
 Saksham Gupta<br>
 Full Stack Developer<br>
