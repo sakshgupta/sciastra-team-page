@@ -1,0 +1,19 @@
+.instituteCard {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.instituteCard:hover {
+    transform: translateY(-5px);
+}
+
+.cardBody {
+    padding: 1rem;
+    text-align: center;
+}
+
+.cardTitle {
+    font-size: 16px;
+    margin-bottom: 0;
+}

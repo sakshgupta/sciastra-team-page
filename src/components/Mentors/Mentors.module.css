@@ -1,0 +1,51 @@
+.wrapper {
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.mentor__h2 {
+    text-align: center;
+}
+
+.mentor__members_fullwidth {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Enable wrapping of items */
+    gap: 20px; /* Adjust the gap between items */
+    margin: 0 -10px; /* Negative margin to counteract wrapping */
+}
+
+.team-mem {
+    flex: 1;
+    max-width: calc(
+        33.33% - 20px
+    ); /* Adjust the width of each team member card */
+    box-sizing: border-box;
+    padding: 0 10px; /* Horizontal padding to compensate for negative margin */
+}
+
+.mentor__team_mem {
+    margin: 8px;
+}
+
+.mentor__img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.mentor__sub {
+    text-align: center;
+    font-size: 15px;
+    margin: 7px;
+    white-space: normal; /* Add this line for text wrapping */
+}
+
+.mentor__subheading {
+    width: 100%; /* Make the subheading span the full width */
+    text-align: center;
+    font-size: 18px; /* Adjust as needed */
+    margin: 20px 0; /* Add some spacing above and below */
+}

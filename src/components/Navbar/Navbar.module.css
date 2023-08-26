@@ -1,0 +1,27 @@
+/* Add this to your existing CSS */
+.navbar__logo {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.navLink:hover {
+    background: linear-gradient(360deg, #234eb0 5%, #9010b0 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.navbar__btn {
+    background: none;
+    color: #234eb0;
+    border: 2px solid #234eb0;
+    transition: background-color 0.3s ease, color 0.3s ease,
+        border-color 0.3s ease;
+}
+
+/* Hover effect */
+.navbar__btn:hover {
+    background: linear-gradient(360deg, #234eb0 5%, #9010b0 100%);
+    color: white;
+    border-color: transparent;
+}

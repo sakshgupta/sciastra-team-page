@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Harvard University"
+  },
+  {
+    "id": 2,
+    "name": "Stanford University"
+  },
+  {
+    "id": 3,
+    "name": "MIT"
+  },
+  {
+    "id": 4,
+    "name": "Oxford University"
+  },
+  {
+    "id": 5,
+    "name": "ETH Zurich"
+  },
+  {
+    "id": 6,
+    "name": "Caltech"
+  },
+  {
+    "id": 7,
+    "name": "University of Cambridge"
+  },
+  {
+    "id": 8,
+    "name": "Princeton University"
+  },
+  {
+    "id": 9,
+    "name": "Yale University"
+  },
+  {
+    "id": 10,
+    "name": "Columbia University"
+  }
+]

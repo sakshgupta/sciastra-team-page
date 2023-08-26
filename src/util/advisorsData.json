@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mrs. Emma",
+    "role": "Graphic Designer",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr. David",
+    "role": "Soft - Engineer",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Liam",
+    "role": "Web Developer",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mrs. Sophia",
+    "role": "Product Manager",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg"
+  }
+]

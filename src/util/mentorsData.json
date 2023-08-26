@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Mrs. Emma",
+    "role": "Graphic Designer",
+    "discipline": "Biology",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr. David",
+    "role": "Soft - Engineer",
+    "discipline": "Physics",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Liam",
+    "role": "Web Developer",
+    "discipline": "Mathematics",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mrs. Sophia",
+    "role": "Product Manager",
+    "discipline": "Chemistry",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mr. John",
+    "role": "Data Scientist",
+    "discipline": "Biology",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ms. Emily",
+    "role": "UX Designer",
+    "discipline": "Physics",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Robert",
+    "role": "Research Scientist",
+    "discipline": "Mathematics",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mr. Samuel",
+    "role": "Software Architect",
+    "discipline": "Chemistry",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ms. Olivia",
+    "role": "Frontend Developer",
+    "discipline": "Biology",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Michael",
+    "role": "ML Engineer",
+    "discipline": "Physics",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mrs. Ava",
+    "role": "Product Designer",
+    "discipline": "Mathematics",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mr. Ethan",
+    "role": "Backend Developer",
+    "discipline": "Chemistry",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ms. Isabella",
+    "role": "UI Designer",
+    "discipline": "Biology",
+    "image": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dr. James",
+    "role": "Researcher",
+    "discipline": "Physics",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Mr. Benjamin",
+    "role": "Full Stack Developer",
+    "discipline": "Mathematics",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg"
+  }
+]
