@@ -3,6 +3,8 @@ SciAstra Team Page Project
 
 Welcome to the SciAstra Team Page project! This project aims to create a "teams page" for the SciAstra company website, similar to the provided template.
 
+Site: https://www.sciastra.com/
+
 Getting Started locally
 ---------------
 
